@@ -9,8 +9,7 @@ const andrew = {
   architecture: ["Azure DevOps", "PostgreSQL", "event-driven"],
   progress: {
     active: [
-      "SimpleInterviews.com",
-      "United-States-API",
+      
     ]
   }
 }
