@@ -4,8 +4,8 @@
 
 ```javascript
 const andrew = {
-  code: [JavaScript, TypeScript, HTML, CSS],
-  tools: [Angular, Nest, Redux, Material, Docker],
+  code: [TypeScript, Rust],
+  tools: [Angular, Docker, Crates, NPM],
   architecture: ["Azure DevOps", "PostgreSQL", "event-driven"],
   progress: {
     active: [
